@@ -145,13 +145,13 @@
                                 <% }%>
                             </form>
 
-                            
+
                             <%
                                 // Lazy get 1 isSync .3.
-                                boolean isSync = false; 
+                                boolean isSync = false;
                                 for (DateDTO dateList : planDate) {
-                                    isSync = dateList.isSync(); 
-                                    break; 
+                                    isSync = dateList.isSync();
+                                    break;
                                 }
                             %>
 
@@ -706,7 +706,7 @@
 
                                                     // Loop through the days between the selected day and the end date
                                                     //while (calendar.getTime().before(endDate) || calendar.getTime().equals(endDate)) {
-%>
+                                            %>
                                             <div class="col-md-6">
                                                 <div class="d-flex">
                                                     <input type="checkbox" id="date_id<%= dateList.getId()%>" name="date_id" value="<%= dateList.getId()%>">
@@ -1007,7 +1007,7 @@
                                                     // Loop through the days between the selected day and the end date
                                                     //while (calendar.getTime().before(endDate) || calendar.getTime().equals(endDate)) {
                                                     // Generate the checkboxes
-%>
+                                            %>
                                             <!--                                            <div class="col-md-4">
                                                                                             <div class="d-flex">
                                                                                                 <input type="checkbox" id="date_id<%= dateList.getId()%>" name="date_id" value="<%= formattedDate%>">

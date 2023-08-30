@@ -39,11 +39,11 @@
                         </div>
                         <div class="user-form-content-input">
                             <p>Email</p>
-                            <input type="text" name="txtEmail" value="khang@gmail.com" required=""/>
+                            <input type="text" name="txtEmail"  required=""/>
                         </div>
                         <div class="user-form-content-input">
                             <p>Password</p>
-                            <input type="password" name="txtPass" value="123" required="" />
+                            <input type="password" name="txtPass" required="" />
                         </div>
 
                         <%

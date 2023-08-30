@@ -23,7 +23,7 @@
     <body>
         <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
-                <a class="carousel-item active" href="" data-bs-interval="4000">
+                <a class="carousel-item active" href="#" data-bs-interval="4000">
                     <div class="banner-content">
                         <p>All new</p>
                         <p>Perfect Breakfast</p>
@@ -31,7 +31,7 @@
                     </div>
                     <img src="./pictures/banner.svg" class="d-block w-100" alt="...">
                 </a>
-                <a class="carousel-item" href="" data-bs-interval="4000">
+                <a class="carousel-item" href="#" data-bs-interval="4000">
                     <div class="banner-content ">
                         <p>All new</p>
                         <p>It's fry-day!</p>
@@ -39,7 +39,7 @@
                     </div>
                     <img src="./pictures/fried-banner.svg" class="d-block w-100 " alt="...">
                 </a>
-                <a class="carousel-item" href="" data-bs-interval="4000">
+                <a class="carousel-item" href="#" data-bs-interval="4000">
                     <div class="banner-content ">
                         <p>All new</p>
                         <p>Pasta La Vista, baby!</p>
@@ -47,7 +47,7 @@
                     </div>
                     <img src="./pictures/pasta-banner.svg" class="d-block w-100" alt="...">
                 </a>
-                <a class="carousel-item" href="" data-bs-interval="4000">
+                <a class="carousel-item" href="#" data-bs-interval="4000">
                     <div class="banner-content ">
                         <p>All new</p>
                         <p>Udon know anything!</p>
